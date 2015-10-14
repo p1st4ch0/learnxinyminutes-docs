@@ -11,7 +11,7 @@ lang: it-it
 ---
 
 Brainfuck è un linguaggio di programmazione estremamente minimale,
-ma è ingrado di rappresentare completamente una macchina di turnig,
+ma è ingrado di rappresentare completamente una macchina di Turing,
 e sfrutta solo 8 caratteri.
 [Per saperne di più](http://it.wikipedia.org/wiki/Brainfuck)
 
